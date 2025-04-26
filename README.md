@@ -45,9 +45,11 @@ These certifications showcase my skills in web development, programming, and ver
 These certificates represent my participation and achievements in academic and extracurricular activities.
 
 - **[Research Paper Presentation - Phishing URL Detection using Machine Learning](https://github.com/Sravanthirani/Certificates/blob/main/Academic-certificates/Phising-URL-Detection-Certificate.jpg)**  
-  Presented a research paper titled "Phishing URL Detection using Machine Learning" at the ICIRAIML-24 conference and received a certification.  
+  Presented a research paper titled "Phishing URL Detection using Machine Learning" at the ICIRAIML-24 conference and received a certification.
   Paper ID: ICIRAIML-24-082.
 
+- **[Internship Certification - Java and Its Industrial Applications](https://github.com/Sravanthirani/Certificates/blob/main/Academic-certifications/NILEDU-Internship-Certificate.jpg)** 
+   Completed an internship certification program on "Java and Its Industrial Applications" conducted by Niltech Edu through college coordination.
 ---
 
 Feel free to explore and click on the above links to view the certificates.
