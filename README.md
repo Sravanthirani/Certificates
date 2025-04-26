@@ -23,7 +23,7 @@ These certifications showcase my skills in web development, programming, and ver
 - **[Advanced JavaScript](https://github.com/Sravanthirani/Certificates/blob/main/Skill-certifications/Javascript-Advanace-Certificate.pdf)**  
   Completed advanced JavaScript concepts, covering ES6, asynchronous programming, and modern JS features.
 
-- **[Python Programming](path_to_certificate)**  
+- **[Python Programming](https://s3-ap-south-1.amazonaws.com/nkb-backend-ccbp-media-static/certificates/share/MBUJWPWSMK.png)**  
   Certification in Python, focusing on foundational programming concepts and data structures.
 
 - **[Database Management with SQL](https://github.com/Sravanthirani/Certificates/blob/main/Skill-certifications/Databases-SQL-Certificate.pdf)**  
